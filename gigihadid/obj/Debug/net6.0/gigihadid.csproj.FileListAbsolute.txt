@@ -1,0 +1,15 @@
+C:\Users\212222\source\repos\gigihadid\gigihadid\bin\Debug\net6.0\gigihadid.exe
+C:\Users\212222\source\repos\gigihadid\gigihadid\bin\Debug\net6.0\gigihadid.deps.json
+C:\Users\212222\source\repos\gigihadid\gigihadid\bin\Debug\net6.0\gigihadid.runtimeconfig.json
+C:\Users\212222\source\repos\gigihadid\gigihadid\bin\Debug\net6.0\gigihadid.dll
+C:\Users\212222\source\repos\gigihadid\gigihadid\bin\Debug\net6.0\gigihadid.pdb
+C:\Users\212222\source\repos\gigihadid\gigihadid\obj\Debug\net6.0\gigihadid.csproj.AssemblyReference.cache
+C:\Users\212222\source\repos\gigihadid\gigihadid\obj\Debug\net6.0\gigihadid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\212222\source\repos\gigihadid\gigihadid\obj\Debug\net6.0\gigihadid.AssemblyInfoInputs.cache
+C:\Users\212222\source\repos\gigihadid\gigihadid\obj\Debug\net6.0\gigihadid.AssemblyInfo.cs
+C:\Users\212222\source\repos\gigihadid\gigihadid\obj\Debug\net6.0\gigihadid.csproj.CoreCompileInputs.cache
+C:\Users\212222\source\repos\gigihadid\gigihadid\obj\Debug\net6.0\gigihadid.dll
+C:\Users\212222\source\repos\gigihadid\gigihadid\obj\Debug\net6.0\refint\gigihadid.dll
+C:\Users\212222\source\repos\gigihadid\gigihadid\obj\Debug\net6.0\gigihadid.pdb
+C:\Users\212222\source\repos\gigihadid\gigihadid\obj\Debug\net6.0\gigihadid.genruntimeconfig.cache
+C:\Users\212222\source\repos\gigihadid\gigihadid\obj\Debug\net6.0\ref\gigihadid.dll
